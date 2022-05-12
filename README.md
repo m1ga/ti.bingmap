@@ -1,5 +1,9 @@
 # Bing maps for Titanium
 
+<img src="assets/screen.png"/>
+
+## Requirements:
+* get a dev key from https://www.bingmapsportal.com/
 
 ```js
 const BingMap = require("ti.bingmap");
